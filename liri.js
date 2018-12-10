@@ -1,5 +1,5 @@
 require('dotenv').config();
-require('moment')
+var moment = require('moment');
 var axios = require('axios');
 var keys = require('./keys');
 var Spotify = require('node-spotify-api');
@@ -56,9 +56,24 @@ switch (command) {
         // Search bandsintown with parameters
         axios.get("https://rest.bandsintown.com/artists/" + param + "/events?app_id=codingbootcamp")
             .then(function (response) {
-                console.log(response.data[0].venue.city);
-                console.log(moment(response.data[0].datetime).date);
-                // console.log('IMDB Rating:  ' + response.data.Ratings[0].Value);
+                for (i = 0; i < response.data.length; i++) {
+                    if (response.data[i].venue.region == '') {
+                        console.log('Venue:     ' + response.data[i].venue.name);
+                        console.log('Location:  ' + response.data[i].venue.city + ', ' +
+                            response.data[i].venue.country);
+                        console.log('Date       ' + moment(response.data[i].datetime).format('L') + '\n');
+                    } else {
+                        console.log('Venue:     ' + response.data[i].venue.name);
+                        console.log('Location:  ' + response.data[i].venue.city + ' ' +
+                            response.data[i].venue.region + ', ' +
+                            response.data[i].venue.country);
+                        console.log('Date       ' + moment(response.data[i].datetime).format('L') + '\n');
+                    }
+                }
+
             });
+        break;
+    default:
+        console.log('Invalid command. For command usage, see README.md');
 
 }
