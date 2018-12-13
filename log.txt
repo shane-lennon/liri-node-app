@@ -1,0 +1,203 @@
+movie-this: donnie brasco
+
+Title:        Donnie Brasco
+Year:         1997
+IMDB Rating:  7.8/10
+Tomato-meter: 88%
+Country:      USA
+Plot:         An FBI undercover agent infiltrates the mob and finds himself identifying more with the mafia life, at the expense of his regular one.
+Actors:       Al Pacino, Johnny Depp, Michael Madsen, Bruno Kirby
+
+do-what-it-says: 
+
+spotify-this-song: "I Want it That Way"
+
+Artist: Backstreet Boys
+Album:  The Hits--Chapter One
+Song:   I Want It That Way
+URL:    https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+
+concert-this: bring me the horizon
+
+Venue:     Nashville Municipal Auditorium
+Location:  Nashville TN, United States
+Date       01/23/2019
+
+Venue:     CFE Arena
+Location:  Orlando FL, United States
+Date       01/25/2019
+
+Venue:     Coca-Cola Roxy
+Location:  Atlanta GA, United States
+Date       01/26/2019
+
+Venue:     EagleBank Arena
+Location:  Fairfax VA, United States
+Date       01/28/2019
+
+Venue:     Hammerstein Ballroom
+Location:  Manhattan NY, United States
+Date       01/29/2019
+
+Venue:     Hammerstein Ballroom
+Location:  New York NY, United States
+Date       01/30/2019
+
+Venue:     Tsongas Center at UMass Lowell
+Location:  Boston MA, United States
+Date       02/01/2019
+
+Venue:     Place Bell
+Location:  Montreal, Canada
+Date       02/02/2019
+
+Venue:     Fillmore Detroit
+Location:  Detroit MI, United States
+Date       02/04/2019
+
+Venue:     Aragon Ballroom
+Location:  Chicago IL, United States
+Date       02/05/2019
+
+Venue:     Armory
+Location:  Minneapolis MN, United States
+Date       02/06/2019
+
+Venue:     South Side Ballroom
+Location:  Dallas TX, United States
+Date       02/08/2019
+
+Venue:     Revention Music Center
+Location:  Houston TX, United States
+Date       02/09/2019
+
+Venue:     The Fillmore Auditorium
+Location:  Denver CO, United States
+Date       02/11/2019
+
+Venue:     The Forum
+Location:  Los Angeles CA, United States
+Date       02/13/2019
+
+Venue:     Comerica Theatre
+Location:  Phoenix AZ, United States
+Date       02/15/2019
+
+Venue:     The Joint at Hard Rock Hotel & Casino
+Location:  Las Vegas NV, United States
+Date       02/16/2019
+
+Venue:     Lollapalooza Chile 29-31
+Location:  Santiago, Chile
+Date       03/29/2019
+
+Venue:     Lollapalooza Argentina 29-31
+Location:  Buenos Aires, Argentina
+Date       03/29/2019
+
+Venue:     Lollapalooza Brasil 5-7
+Location:  São Paulo, Brazil
+Date       04/05/2019
+
+Venue:     Entertainment Centre
+Location:  Brisbane, Australia
+Date       04/10/2019
+
+Venue:     Qudos Bank Arena
+Location:  Sydney, Australia
+Date       04/12/2019
+
+Venue:     Rod Laver Arena
+Location:  Melbourne, Australia
+Date       04/13/2019
+
+Venue:     Welcome To Rockville 3-5
+Location:  Jacksonville FL, United States
+Date       05/03/2019
+
+Venue:     Epicenter Festival 10-12
+Location:  Rockingham NC, United States
+Date       05/10/2019
+
+Venue:     Sonic Temple Festival 17-19 
+Location:  Columbus OH, United States
+Date       05/17/2019
+
+Venue:     All Points East
+Location:  London, United Kingdom
+Date       05/31/2019
+
+Venue:     Rock im Park 07-09
+Location:  Nord, Germany
+Date       06/07/2019
+
+Venue:     Rock Am Ring 07-09
+Location:  Nürburg, Germany
+Date       06/07/2019
+
+Venue:     Rock Werchter 27-30
+Location:  Werchter, Belgium
+Date       06/27/2019
+
+Venue:     Lollapalooza 28-29
+Location:  Stockholm, Sweden
+Date       06/28/2019
+
+Venue:     Rock For People 4-6
+Location:  Hradec Kralove, Czech Republic
+Date       07/04/2019
+
+Venue:     Main Square Festival
+Location:  Arras, France
+Date       07/07/2019
+
+Venue:     Electric Castle Festival 17-21
+Location:  Bánffyhunyad, Romania
+Date       07/17/2019
+
+spotify-this-song: spoonman
+
+Artist: Soundgarden
+Album:  Superunknown (20th Anniversary)
+Song:   Spoonman
+URL:    https://open.spotify.com/track/1jMaB19DiVR8OihLSuYFOt
+
+spotify-this-song: bartzabel
+
+Artist: Behemoth
+Album:  I Loved You at Your Darkest
+Song:   Bartzabel
+URL:    https://open.spotify.com/track/3sR5MqlhE1pYtrZyCJNIuO
+
+do-what-it-says: 
+
+movie-this: earthquake
+
+Title:        Earthquake
+Year:         1974
+IMDB Rating:  5.8/10
+Tomato-meter: 35%
+Country:      USA
+Plot:         Various interconnected people struggle to survive when an earthquake of unimaginable magnitude hits Los Angeles, California.
+Actors:       Charlton Heston, Ava Gardner, George Kennedy, Lorne Greene
+
+movie-this: tree of life
+
+Title:        Tree of Life
+Year:         2010
+IMDB Rating:  6.7/10
+movie-this: dark knight
+
+Title:        Dark Knight
+Year:         2000–
+IMDB Rating:  5.4/10
+movie-this: the dark knight
+
+Title:        The Dark Knight
+Year:         2008
+IMDB Rating:  9.0/10
+Tomato-meter: 94%
+Country:      USA, UK
+Plot:         When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+Actors:       Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
+
